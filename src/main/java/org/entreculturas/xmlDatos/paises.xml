@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<paises>
+    <pais>
+        <idPais>1</idPais>
+        <nombre>España</nombre>
+    </pais>
+    <pais>
+        <idPais>2</idPais>
+        <nombre>Portugal</nombre>
+    </pais>
+</paises>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<proyectos>
+    <proyecto>
+        <idProyecto>1</idProyecto>
+        <nombre>Agua para todos</nombre>
+        <fechaInicio>2023-08-23</fechaInicio>
+        <fechaFin>2024-08-23</fechaFin>
+        <financiador>La Caixa</financiador>
+        <financiacion>10000000</financiacion>
+        <socioLocal>1</socioLocal>
+        <idDelegacion>1</idDelegacion>
+        <idPais>1</idPais>
+    </proyecto>
+    <proyecto>
+        <idProyecto>2</idProyecto>
+        <nombre>Protección a la mujer Afgana</nombre>
+        <fechaInicio>2023-08-23</fechaInicio>
+        <fechaFin>2024-08-23</fechaFin>
+        <financiador>La Caixa</financiador>
+        <financiacion>10000000</financiacion>
+        <socioLocal>2</socioLocal>
+        <idDelegacion>2</idDelegacion>
+        <idPais>2</idPais>
+    </proyecto>
+</proyectos>

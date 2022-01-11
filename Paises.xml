@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Paises>
+    <Pais>
+        <Id>c448478a8fe24cbdb0e027ab89b2da95</Id>
+        <Name>Sevilla</Name>
+    </Pais>
+    
+    <Pais>
+        <Id>8cb8930e5cf640e18e8663f57932a03a</Id>
+        <Name>Málaga</Name>
+    </Pais>
+</Paises>

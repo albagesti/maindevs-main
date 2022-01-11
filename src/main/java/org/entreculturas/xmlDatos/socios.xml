@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<socios>
+    <socio>
+        <idSocio>1</idSocio>
+        <nombre>Ferran</nombre>
+        <DNI>47652026M</DNI>
+        <tipoCuota>Mensual</tipoCuota>
+        <idProyecto>1</idProyecto>
+    </socio>
+    <socio>
+        <idSocio>2</idSocio>
+        <nombre>Alba</nombre>
+        <DNI>43562026G</DNI>
+        <tipoCuota>Mensual</tipoCuota>
+        <idProyecto>2</idProyecto>
+    </socio>
+</socios>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<delegaciones>
+    <delegacion>
+        <idDelegacion>1</idDelegacion>
+        <nombre>Castellón</nombre>
+        <direccion>Av. Mortadelo</direccion>
+        <telefono>9342242908</telefono>
+        <email>psegarrac@uoc.edu</email>
+    </delegacion>
+    <delegacion>
+        <idDelegacion>2</idDelegacion>
+        <nombre>Burriana</nombre>
+        <direccion>Av. De los alcantares</direccion>
+        <telefono>12344</telefono>
+        <email>peseca@gmail.com</email>
+    </delegacion>
+</delegaciones>

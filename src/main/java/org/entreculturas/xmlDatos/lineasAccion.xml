@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lineasAccion>
+    <lineaAccion>
+        <idLinea>1</idLinea>
+        <nombre>Cooperación al desarrollo</nombre>
+        <lineaPadreId>0</lineaPadreId>
+        <idProyecto>1</idProyecto>
+    </lineaAccion>
+    <lineaAccion>
+        <idLinea>2</idLinea>
+        <nombre>Desarrollo en la India</nombre>
+        <lineaPadreId>0</lineaPadreId>
+        <idProyecto>2</idProyecto>
+    </lineaAccion>
+</lineasAccion>
